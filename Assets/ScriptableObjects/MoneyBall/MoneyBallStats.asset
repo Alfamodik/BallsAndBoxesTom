@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a45a1e8f9e2031a4ca12244735f72c28, type: 3}
+  m_Name: MoneyBallStats
+  m_EditorClassIdentifier: 
+  initialStats:
+  - key: 0
+    value: 2
+  - key: 1
+    value: 5
+  - key: 2
+    value: 400
+  - key: 6
+    value: 5
+  - key: 101
+    value: 0
+  - key: 102
+    value: 0
+  displayName:
+    ru: "\u0414\u0435\u043D\u0435\u0436\u043D\u044B\u0439 \u043C\u044F\u0447"
+    en: Money Ball
+  description:
+    ru: "\u041F\u043E\u043B\u0443\u0447\u0430\u0439\u0442\u0435 \u0434\u043E\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u044B\u0435
+      \u0434\u0435\u043D\u044C\u0433\u0438 \u043A\u0430\u0436\u0434\u044B\u0439 \u0440\u0430\u0437,
+      \u043A\u043E\u0433\u0434\u0430 \u044D\u0442\u043E\u0442 \u043C\u044F\u0447
+      \u043F\u043E\u043F\u0430\u0434\u0430\u0435\u0442 \u0432 \u043A\u043E\u0440\u043E\u0431\u043A\u0443."
+    en: Receive some extra money, everytime this ball hits a box.
+  sprite: {fileID: 21300000, guid: f455ce5ab27618a45a898989cc6c3a03, type: 3}
+  scale: {x: 1.2, y: 1.2, z: 1.2}
+  hitSounds:
+  - {fileID: 8300000, guid: c927a206dc7876f44b3b6b3cd631cf84, type: 3}
+  - {fileID: 8300000, guid: 576e43b0e7ac9bb429f71d4136347926, type: 3}
+  - {fileID: 8300000, guid: 9958614e1d098174f997a2c72a36c066, type: 3}

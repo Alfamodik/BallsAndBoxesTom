@@ -1,0 +1,3 @@
+﻿Build path: F:/Alfamod/Projects/Unity/Builds/Labuba
+Build number: 9
+PluginYG version: 2.007
