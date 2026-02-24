@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Labubu.sln"
+    "dotnet.defaultSolution": "BallsAndBoxesTom.sln"
 }

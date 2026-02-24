@@ -34,7 +34,7 @@ MonoBehaviour:
       \u043F\u043E\u0440\u0430\u0436\u0430\u0435\u0442 \u0441\u0440\u0430\u0437\u0443
       \u043D\u0435\u0441\u043A\u043E\u043B\u044C\u043A\u043E \u044F\u0449\u0438\u043A\u043E\u0432."
     en: Creates an explosion on impact, which hits multiple boxes at once.
-  sprite: {fileID: 21300000, guid: 526f3fa081baf8b41a643b84d38115d6, type: 3}
+  sprite: {fileID: 21300000, guid: eda19aa34cbcec74493185c5ee66d147, type: 3}
   scale: {x: 1.1, y: 1.1, z: 1.1}
   hitSounds:
   - {fileID: 8300000, guid: 962068dd755dcab4f897935ffd17df1c, type: 3}
