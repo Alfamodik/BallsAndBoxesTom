@@ -30,7 +30,7 @@ public class Upgrade : MonoBehaviour
     [SerializeField]
     private MMF_Player _failedPurchaseFeedback;
 
-    void Start()
+    void Awake()
     {
         LoadProgress();
         UpdateText();
