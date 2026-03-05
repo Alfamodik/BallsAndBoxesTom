@@ -5287,5 +5287,5 @@ MonoBehaviour:
           m_DissipationMode: 2
           m_DissipationDistance: 100
           m_PropagationSpeed: 343
-        Velocity: {x: 5, y: 5, z: 5}
+        Velocity: {x: 2.5, y: 2.5, z: 2.5}
         ClearImpulseOnStop: 0
