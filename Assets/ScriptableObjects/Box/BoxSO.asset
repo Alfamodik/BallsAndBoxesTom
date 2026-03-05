@@ -13,7 +13,4 @@ MonoBehaviour:
   m_Name: BoxSO
   m_EditorClassIdentifier: 
   sprites:
-  - {fileID: 21300000, guid: 815791b4d15b4984996f73916c1844fc, type: 3}
-  - {fileID: 21300000, guid: 67c30522512084847bdf45f930d4574e, type: 3}
-  - {fileID: 21300000, guid: 3fba298ae127786428f955d8d45b8804, type: 3}
-  - {fileID: 21300000, guid: 9fb5bef0b9af99c4bb6bf604171ab3b3, type: 3}
+  - {fileID: 21300000, guid: 086687494062d4141994e7f20f91dbfa, type: 3}
